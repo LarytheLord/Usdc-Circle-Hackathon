@@ -1,0 +1,51 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+.nyc_output
+
+# production
+/build
+dist
+
+# misc
+.DS_Store
+.env.local
+.env.*.local
+
+# Next.js
+.next
+.cache
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files (these should be excluded from git)
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+
+# Distribution files
+*.tar.gz
+*.zip
+
+# Local development files
+.local
